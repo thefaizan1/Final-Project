@@ -1,0 +1,14 @@
+.regi{
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+   height: 100vh;
+
+}
+.regsecdiv{
+    background-color: blueviolet;
+    margin-top: 100pxs;
+    position: relative;
+    top: 100px;
+    left: 400px;
+    width: fit-content;
+}
+

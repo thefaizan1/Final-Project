@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Neuton:ital,wght@0,200;0,300;0,400;0,700;0,800;1,400&display=swap');
+*{margin: 0;padding: 0;}
+
+.maindiv{
+    
+    width: 100%;
+    height: 100vh   ;
+  
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.adminbutton{
+    position: relative;
+    float: right;
+    right: 10px;
+    top: 10px;
+
+    background-color: blueviolet !important;
+    color: blueviolet;
+    
+}
+.seconddiv{
+    
+    width: 100%
+   
+}
+.sideimg{
+    width: 1000px;
+    height: 800px;
+    float: right;
+}
+
+.user-button{
+    margin-left: 10px;
+    background-color: orange !important;
+}
+
+.writer{
+    position: absolute;
+    font-size: 100px;
+    top: 300px;
+    left: 40px;
+}
+.Temp{
+    font-family: "Neuton", serif;
+    font-weight: 700;
+    color: #ffb703;
+}
+.tag{
+    font-size: 50px;
+    font-family: "Neuton", serif;
+}
+
+.revo{
+    font-size: 20px;
+    font-family: "Neuton", serif;
+}
+

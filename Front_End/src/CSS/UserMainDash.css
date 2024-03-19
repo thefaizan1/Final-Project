@@ -1,0 +1,77 @@
+.userMain{
+  
+   height: 100vh; 
+   width: 100%; 
+   background-image: url(../assets/bg.jpg);
+   background-size: cover; 
+   background-repeat: no-repeat;
+   overflow-x: hidden; 
+  
+
+}
+.user-container{
+  width: 100vw;
+  height: 500px;
+   position: relative;
+   top: 100px;
+   left: 400px;
+
+   display: flex;
+   flex-direction: row;
+ 
+ 
+   
+
+}
+.tutorial{
+   width: 285px;
+   height: 356px;
+
+   background-color:#a2d2ff ;
+   margin-right: 70px;
+   border-radius: 25px;
+}
+.image{
+   width: 250px;
+   height: 200px;
+   position: relative;
+   top:50px;
+   left:25px;
+}
+/* .tutorial button{
+   position: relative;
+   top: 100px;
+   left: 60px;
+   
+} */
+.smallmid{
+   position: relative;
+   top: 100px;
+   left: 95px;
+   background-color: blueviolet !important;
+}
+.bigmid{
+   position: relative;
+   top: 100px;
+   left: 60px;
+   background-color: blueviolet !important;
+}
+.user-logo{
+  width: 50px;
+  height: 50px;
+}
+.bg-color{
+  background-color: aqua;
+  display:inline-block;
+  
+}
+
+.welcome-user{
+
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-weight: 800;
+  color: #ffb703;
+}

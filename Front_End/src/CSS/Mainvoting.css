@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_inner_div {
+    background-color: #bde0fe;
+    display: inline-block;
+    position: relative;
+
+    left: 100px;
+    margin-right: 40px;
+    margin-top: 20px;
+    width: 500px;
+    height: 300px;
+    border-radius: 50px;
+    
+
+}
+.main_inner_div:hover{
+    border: 4px solid   ;
+    border-color: green ;
+}
+
+.candimg {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 20px;
+    top: 30px;
+}
+
+.cand_info {
+    position: relative;
+    top: 50px;
+    left: 75px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.Vote_btn {
+    position: relative;
+    top: 55px;
+    left: 111px;
+    background: #5E5DF0;
+    border-radius: 999px;
+    box-shadow: #5E5DF0 0 10px 20px -10px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter, Helvetica, "Apple Color Emoji", "Segoe UI Emoji", NotoColorEmoji, "Noto Color Emoji", "Segoe UI Symbol", "Android Emoji", EmojiSymbols, -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: fit-content;
+    word-break: break-word;
+    border: 0;
+}
+
+
+
+.Voter_root {
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Heading{
+    color: red;
+    font-family: "Noto Serif", serif;
+    font-size: 50px;
+    font-weight: 500;
+}
+.Blank{
+    margin-left: 600px;
+    margin-top: 200px;
+}
